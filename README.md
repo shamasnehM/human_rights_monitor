@@ -54,16 +54,7 @@ cd human_rights_monitor
 - Python 3.10+
 - MongoDB Atlas or local MongoDB instance
 
-#### 🔌 Install Dependencies
 
-```bash
-cd backend
-pip install -r requirements.txt
-```
-
-> If you don't have a `requirements.txt`, use:
-```bash
-pip install fastapi uvicorn motor python-multipart
 ```
 
 #### ▶️ Run the Server
